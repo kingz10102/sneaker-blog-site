@@ -209,7 +209,7 @@ function App() {
                   <Avatar src="https://images.pexels.com/photos/3686769/pexels-photo-3686769.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" />
                   <Box ml={2}>
                     <Typography variant="subtitle2" component="p">
-                      BALL GOD
+                      The new Mutumbo
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary" component="p">
                     March 11, 2020
@@ -242,10 +242,10 @@ function App() {
       </CardActionArea>
       <CardActions className={classes.cardActions}>
           <Box className={classes.author}>
-                  <Avatar src="https://media.istockphoto.com/photos/3d-basketball-drinks-at-the-party-picture-id522344211" />
+                  <Avatar src="https://media.istockphoto.com/photos/3d-basketball-bunny-picture-id480719227" />
                   <Box ml={2}>
                     <Typography variant="subtitle2" component="p">
-                      BALL GOD
+                      POSTUP MONEY$$ MAKER
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary" component="p">
                     March 11, 2020
@@ -263,7 +263,7 @@ function App() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://media.istockphoto.com/photos/great-sneaker-picture-id1079117394"
+          image="https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
           title="istock sneaker photo"
         />
         <CardContent>
@@ -278,10 +278,10 @@ function App() {
       </CardActionArea>
       <CardActions className={classes.cardActions}>
           <Box className={classes.author}>
-                  <Avatar src="https://media.istockphoto.com/photos/3d-basketball-drinks-at-the-party-picture-id522344211" />
+                  <Avatar src="https://images.pexels.com/photos/2642389/pexels-photo-2642389.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" />
                   <Box ml={2}>
                     <Typography variant="subtitle2" component="p">
-                      BALL GOD
+                      3pt Gangsta
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary" component="p">
                     March 11, 2020
