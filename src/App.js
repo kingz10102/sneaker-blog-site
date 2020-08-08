@@ -22,7 +22,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: '#fff'
   },
   sneaker: {
-    backgroundImage: `linear-gradient(rgba(0,0,0.5), rgba(0,0,0.5)), url('https://www.istockphoto.com/photo/great-sneaker-gm1079117394-289156348')`,
+    backgroundImage: `linear-gradient(rgba(0,0,0.5), rgba(0,0,0.5)), url('https://images.unsplash.com/photo-1496115898806-2b023a9dcb6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1994&q=80')`,
     height: '500px',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat',
@@ -140,7 +140,7 @@ function App() {
                       Crossover Prince
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary" component="p">
-                    March 11, 2020
+                    March 16, 2020
                     </Typography>
                   </Box>
                 </Box>
@@ -176,7 +176,7 @@ function App() {
                       Alley-OPP
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary" component="p">
-                    March 11, 2020
+                    April 1, 2020
                     </Typography>
                   </Box>
                 </Box>
@@ -212,7 +212,7 @@ function App() {
                       The new Mutumbo
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary" component="p">
-                    March 11, 2020
+                    April 20, 2020
                     </Typography>
                   </Box>
                 </Box>
@@ -248,7 +248,7 @@ function App() {
                       POSTUP MONEY$$ MAKER
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary" component="p">
-                    March 11, 2020
+                    May 5, 2020
                     </Typography>
                   </Box>
                 </Box>
@@ -284,7 +284,7 @@ function App() {
                       3pt Gangsta
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary" component="p">
-                    March 11, 2020
+                    June 17, 2020
                     </Typography>
                   </Box>
                 </Box>
